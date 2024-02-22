@@ -1,4 +1,4 @@
-package ru.alexandrUniversity.Entity.Service;
+package ru.alexandrUniversity.Service;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
